@@ -1,6 +1,6 @@
 # C2C Escrow Digital Marketplace — Case Study về Product, BA & BI
 
-Một Case Study toàn diện về **Phân tích nghiệp vụ (BA), Quản lý sản phẩm/dự án (PO/PM) và Business Intelligence (BI)** cho nền tảng thương mại điện tử C2C chuyên giao dịch tài sản số (mã nguồn, UI/UX kit, tài liệu học thuật và biểu mẫu). Hệ thống giải quyết triệt để rủi ro lừa đảo trong giao dịch ngang hàng (P2P), tình trạng đánh cắp bản quyền và nội dung AI thiếu minh bạch thông qua ví thanh toán trung gian khép kín (Escrow), cơ chế đóng dấu bản quyền tự động và quy trình kiểm duyệt minh bạch.
+Một Case Study về **Phân tích nghiệp vụ (BA), Quản lý sản phẩm/dự án (PO/PM) và Business Intelligence (BI)** cho nền tảng thương mại điện tử C2C chuyên giao dịch tài sản số (mã nguồn, UI/UX kit, tài liệu học thuật và biểu mẫu). Hệ thống giải quyết triệt để rủi ro lừa đảo trong giao dịch ngang hàng (P2P), tình trạng đánh cắp bản quyền và nội dung AI thiếu minh bạch thông qua ví thanh toán trung gian khép kín (Escrow), cơ chế đóng dấu bản quyền tự động và quy trình kiểm duyệt minh bạch.
 
 ---
 
